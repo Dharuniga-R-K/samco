@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/samco/:/",
+    "/content/samco/configuration:/.helix/config.json",
+    "/content/samco/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/samco/"
+  ]
+}
